@@ -1,0 +1,10 @@
+ ## Q. no:11 -  
+
+
+Similar to Q03, but streaming interface. Find the numbers with maximum and minimum number of occurrences using streaming interface.
+Input 
+- i/p 1: number of mapped instances. 
+- i/p 2: streaming data 1M+ numbers (e.g. cat file).
+Output 
+- o/p 1: number with maximum occurrences and occurrences count. 
+- o/p 2: number with minimum occurrences and occurrences count. 
