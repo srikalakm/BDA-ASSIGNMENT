@@ -1,0 +1,16 @@
+1) JRE was not suppporting before as we had installed different versions of java.
+ then we later  resolved it through stackover flow .
+ 
+2) Faced errors such HDFS command not found during hadoop installation.
+
+3)  when we run jps command after running start-yarn.sh , we were not able to run Datanode process .
+ we resolved it by seeing Hadoop troubleshoot page.
+  http://pages.cs.brandeis.edu/~cs147a/lab/hadoop-troubleshooting/
+  
+4) " Exception in thread "main" java.lang.UnsupportedClassVersionError: WordCount has been compiled by a more
+  recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes 
+   class file versions up to 52.0 " 
+   
+   We were facing the above error later when we tried to run the above program.
+   
+   
